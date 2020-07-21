@@ -7,7 +7,6 @@ Created on Tue Jul 21 00:14:04 2020
 
 import pandas as pd #dataseti okumak için
 import numpy as np
-import matplotlib.pyplot as plt
 #lineer regresyon import ettik, multiple lr ile aralarındaki tek fark özellik (feature) artması
 from sklearn.linear_model import LinearRegression
 
