@@ -10,7 +10,7 @@ Medium hesabımdan ayrıntılı olarakta bu konuları anlatıyorum,
 incelemek isteyenler için https://medium.com/@alitunacanonar
 
 # EN
-# machine-learning-basic
+# Machine Learning Basic
 In this study, we examine machine learning algorithms at entry level.
 I prepare the data sets in excel program and print them in csv format.
 
